@@ -13,3 +13,8 @@ function MainContent() {
 ReactDOM.createRoot(document.getElementById('root')).render(<MainContent></MainContent>)
 
 console.log('hello');
+
+
+
+// TODO next slide
+// https://scrimba.com/learn/learnreact/thought-experiment-use-append-instead-of-reactdomrender-co5c54662bb669f19d26693f9
